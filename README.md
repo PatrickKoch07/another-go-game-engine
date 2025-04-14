@@ -6,3 +6,4 @@ Currently, the 'engine' has support for sprites, colliders, scenes, gamestates/g
 The very basic beginnings of some features are in place such as characters, as they appear in most games (sprites, colliders, and movement), and a camera system. These would be next on the imaginary TO-DO list. Smaller known issues would be things like creating a complete build script, and completely separating the game engine logic from the game logic.
 
 Progress paused as of (3/29/2025)
+Looking for a job: https://www.linkedin.com/in/patrick-koch07/
